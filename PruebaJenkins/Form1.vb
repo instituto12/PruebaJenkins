@@ -5,7 +5,7 @@
         MsgBox("Prueba")
         MsgBox("Prueba")
 
-        Me.Focus.ToString()
+        Me.Focus.
 
     End Sub
 End Class
