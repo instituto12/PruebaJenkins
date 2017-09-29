@@ -18,3 +18,4 @@ C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenk
 C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.Form1.resources
 C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.Resources.resources
 C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.vbproj.GenerateResource.Cache
+C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.Form2.resources
