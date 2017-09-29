@@ -1,0 +1,14 @@
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\bin\Debug\PruebaJenkins.exe.config
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\bin\Debug\PruebaJenkins.exe
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\bin\Debug\PruebaJenkins.pdb
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\bin\Debug\PruebaJenkins.xml
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.Form1.resources
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.Resources.resources
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.vbproj.GenerateResource.Cache
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.exe
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.xml
+C:\Users\dspinedi\AppData\Local\Temporary Projects\PruebaJenkins\obj\Debug\PruebaJenkins.pdb
+C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\bin\Debug\PruebaJenkins.exe.config
+C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.exe
+C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.xml
+C:\Users\dspinedi\Documents\Visual Studio 2012\Projects\PruebaJenkins\PruebaJenkins\obj\Debug\PruebaJenkins.pdb
